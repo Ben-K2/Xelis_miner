@@ -1,1 +1,26 @@
 
+version xelis_miner-v1.9.2e.tar.gz utilise le miner xelis-taxminer
+
+Pour le moment pas de remonter de block trouvé ou de rejet car rien fournie dans les logs
+
+Pour dual miner
+
+pas de choix sur le nombre de thread 
+
+![image](https://github.com/Ben-K2/Xelis_miner/assets/92938895/e1cbb374-06ad-4bea-b54e-28ecdb139fec)
+
+Pour miner juste GPU
+
+Pas de remonter des hash des gpu dans les log donc seule le hash total est afficher
+
+![image](https://github.com/Ben-K2/Xelis_miner/assets/92938895/ba1ae4e1-f553-4c89-8872-38f7863992f9)
+
+il est possible d'utiliser nvtool 
+
+![image](https://github.com/Ben-K2/Xelis_miner/assets/92938895/defa2570-9b59-4591-a7cb-8f7b855accf3)
+
+Pour miner juste CPU
+
+![image](https://github.com/Ben-K2/Xelis_miner/assets/92938895/ed55eae5-de3f-43ad-96ea-e25f0915909c)
+
+Attention compatible uniquement avec les cpu avx2 ou superieur 
